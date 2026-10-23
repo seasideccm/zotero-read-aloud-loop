@@ -2,6 +2,8 @@
 
 **English** | [简体中文](./README.zh-CN.md)
 
+> **Built for Zotero 11** (PDF / EPUB reader). Tested against Zotero 11; the plugin hooks reader internals that may change in future versions.
+
 Adds a "loop current sentence" toggle to the **Read Aloud** feature of the Zotero reader (PDF / EPUB).
 
 When enabled, the current sentence is replayed automatically after it finishes. Clicking "previous sentence" or "next sentence" moves the loop target to the newly selected sentence, which then keeps looping. Useful for close reading, shadowing, and language learning.

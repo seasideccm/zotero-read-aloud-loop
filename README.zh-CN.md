@@ -4,7 +4,9 @@
 
 > **适用于 Zotero 11**（PDF / EPUB 阅读器）。已在 Zotero 11 上测试；插件依赖阅读器内部成员，未来版本可能变化。
 
-![](./read loop.png)
+
+
+![](./images/loop.png)
 
 为 Zotero 阅读器（PDF / EPUB）的 **Read Aloud（朗读）** 功能增加一个“循环播放当前句”开关。
 

@@ -6,7 +6,7 @@
 >
 > 
 
-![loop](./read loop.png)
+![loop](./images/loop.png)
 
 Adds a "loop current sentence" toggle to the **Read Aloud** feature of the Zotero reader (PDF / EPUB).
 
